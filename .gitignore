@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/venv/
+__pycache__/
+backend/**/__pycache__/
+*.pyc
+
+# Next.js build
+.next/
+frontend/.next/
+out/
+frontend/out/
+
+# Environment variables
+.env
+.env.local
+.env*.local
+frontend/.env
+backend/.env
+
+# Database & Storage
+*.db
+backend/resolveiq.db
+
+# IDE & OS & Logs
+.DS_Store
+*.log
+.vercel/
+frontend/.vercel/
+.andromity/
+.cortex/

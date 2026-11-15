@@ -1,0 +1,121 @@
+id,language,text,expected_category,expected_location,expected_safety
+1,kn,ನಮ್ಮ ರಸ್ತೆಯಲ್ಲಿ ಕಾವೇರಿ ನೀರಿನ ಪೈಪ್ ಒಡೆದಿದೆ,water,Jayanagar,False
+2,kn,ಕುಡಿಯುವ ನೀರಿನಲ್ಲಿ ಕೊಳಚೆ ನೀರು ಸೇರುತ್ತಿದೆ ತಕ್ಷಣ ಪರಿಶೀಲಿಸಿ,water,Koramangala,True
+3,kanglish,"Namma street alli water pipe odeede, neeru waste aaguthide",water,Jayanagar,False
+4,kanglish,"Drinking water alli sewage mix aagide, makkalige tondare aagide",water,Koramangala,True
+5,en,"Water pipe burst near 4th Block, road is flooding",water,Jayanagar,False
+6,en,Severe sewage contamination in municipal drinking water line,water,Koramangala,True
+7,hi,Hamare yahan paani ki pipe phat gayi hai aur paani beh raha hai,water,Jayanagar,False
+8,hi,Peene ke paani mein ganda naale ka paani mil raha hai bache bimaar ho rahe hain,water,Koramangala,True
+9,kn,"ಕರೆಂಟ್ ಹೋಗಿ 5 ಗಂಟೆಗಳಾಯಿತು, ಯಾರೂ ಫೋನ್ ಎತ್ತುತ್ತಿಲ್ಲ",electricity,Whitefield,False
+10,kn,ಟ್ರಾನ್ಸ್‌ಫಾರ್ಮರ್ ಶಾರ್ಟ್ ಸರ್ಕ್ಯೂಟ್ ಆಗಿ ಬೆಂಕಿ ಕಾಣಿಸಿಕೊಂಡಿದೆ,electricity,Whitefield,True
+11,kanglish,"Current hogi 5 hours aaytu, yaaru phone ettalla",electricity,Whitefield,False
+12,kanglish,Transformer spark aagi live wire road mele biddide urgent help beku,electricity,Whitefield,True
+13,en,Power outage ongoing for 5 hours without restoration in Whitefield,electricity,Whitefield,False
+14,en,High voltage sparking wire hanging on school entrance road,electricity,Whitefield,True
+15,hi,Pichle 5 ghante se bijli nahi hai helpline phone nahi utha raha,electricity,Whitefield,False
+16,hi,Transformer mein aag lag gayi hai live wire sadak par gir gaya hai,electricity,Whitefield,True
+17,kn,ರಸ್ತೆಯಲ್ಲಿ ಆಳವಾದ ಗುಂಡಿ ಬಿದ್ದಿದ್ದು ವಾಹನ ಸವಾರರು ಬೀಳುತ್ತಿದ್ದಾರೆ,road,Indiranagar,True
+18,kn,ಫುಟ್‌ಪಾತ್ ಸ್ಲ್ಯಾಬ್ ಒಡೆದು ಪಾದಚಾರಿಗಳಿಗೆ ನಡೆಯಲು ಕಷ್ಟವಾಗಿದೆ,road,Indiranagar,False
+19,kanglish,Road alli dodda pothole aagide two wheeler skid aagide,road,Indiranagar,True
+20,kanglish,Footpath paving stones kithu hogive walk madoke aagalla,road,Indiranagar,False
+21,en,Dangerous deep pothole on main transit corridor risking commuter safety,road,Indiranagar,True
+22,en,Broken pavement slab causing obstruction for pedestrians,road,Indiranagar,False
+23,hi,Sadak par bohot bada gaddha hai accident ka khatra hai,road,Indiranagar,True
+24,hi,Footpath tut gaya hai pedal chalne walon ko pareshaani ho rahi hai,road,Indiranagar,False
+25,kn,ಬೀದಿಯಲ್ಲಿ ತ್ಯಾಜ್ಯ ವಿಲೇವಾರಿ ಮಾಡದೆ 3 ದಿನಗಳಾಗಿವೆ ತೀವ್ರ ದುರ್ನಾತ ಬರುತ್ತಿದೆ,garbage,Malleshwaram,False
+26,kn,ಕಸದ ರಾಶಿಗೆ ಯಾರೋ ಬೆಂಕಿ ಹಚ್ಚಿದ್ದು ಹೊಗೆಯಿಂದ ಉಸಿರಾಟದ ತೊಂದರೆಯಾಗಿದೆ,garbage,Malleshwaram,True
+27,kanglish,Kachra vehicle barilla 3 days inda road full waste biddide,garbage,Malleshwaram,False
+28,kanglish,Garbage pile ge fire hacchidaare full toxic smoke banthide,garbage,Malleshwaram,True
+29,en,Solid waste not collected for 3 days leading to foul stench,garbage,Malleshwaram,False
+30,en,Illegal garbage burning creating thick smoke hazard near clinic,garbage,Malleshwaram,True
+31,hi,Teen din se kachra gaadi nahi aayi hai sadak par kachra phel raha hai,garbage,Malleshwaram,False
+32,hi,Kachre ke dher mein aag laga di gayi hai dhuaan se saans lena mushkil hai,garbage,Malleshwaram,True
+33,kn,ಸೊಳ್ಳೆಗಳ ಕಾಟ ಹೆಚ್ಚಾಗಿದ್ದು ಡೆಂಗ್ಯೂ ಹರಡುವ ಭೀತಿ ಇದೆ ಔಷಧಿ ಸಿಂಪಡಿಸಿ,health,Koramangala,True
+34,kn,ಸಾರ್ವಜನಿಕ ಉದ್ಯಾನವನದಲ್ಲಿ ಸ್ವಚ್ಛತೆ ಇಲ್ಲದೆ ಅನೈರ್ಮಲ್ಯ ಉಂಟಾಗಿದೆ,health,Jayanagar,False
+35,kanglish,Mosquitoes jasthi aagide fogging madsbeku urgent dengue risk ide,health,Koramangala,True
+36,kanglish,Public park alli sanitation illa dirty water nintukondide,health,Jayanagar,False
+37,en,Stagnant water breeding mosquitoes creating dengue outbreak hazard,health,Koramangala,True
+38,en,Public health sanitation inspection required in municipal market area,health,Jayanagar,False
+39,hi,Machhar bohot badh gaye hain dengue ka darr hai fogging karwaiye,health,Koramangala,True
+40,hi,Park mein gandagi faili hui hai bimaari failne ka khatra hai,health,Jayanagar,False
+41,kn,Urgent update: ನಮ್ಮ ರಸ್ತೆಯಲ್ಲಿ ಕಾವೇರಿ ನೀರಿನ ಪೈಪ್ ಒಡೆದಿದೆ - please resolve soon.,water,Jayanagar,False
+42,kn,Urgent update: ಕುಡಿಯುವ ನೀರಿನಲ್ಲಿ ಕೊಳಚೆ ನೀರು ಸೇರುತ್ತಿದೆ ತಕ್ಷಣ ಪರಿಶೀಲಿಸಿ - please resolve soon.,water,Koramangala,True
+43,kanglish,"Urgent update: Namma street alli water pipe odeede, neeru waste aaguthide - please resolve soon.",water,Jayanagar,False
+44,kanglish,"Urgent update: Drinking water alli sewage mix aagide, makkalige tondare aagide - please resolve soon.",water,Koramangala,True
+45,en,"Urgent update: Water pipe burst near 4th Block, road is flooding - please resolve soon.",water,Jayanagar,False
+46,en,Urgent update: Severe sewage contamination in municipal drinking water line - please resolve soon.,water,Koramangala,True
+47,hi,Urgent update: Hamare yahan paani ki pipe phat gayi hai aur paani beh raha hai - please resolve soon.,water,Jayanagar,False
+48,hi,Urgent update: Peene ke paani mein ganda naale ka paani mil raha hai bache bimaar ho rahe hain - please resolve soon.,water,Koramangala,True
+49,kn,"Urgent update: ಕರೆಂಟ್ ಹೋಗಿ 5 ಗಂಟೆಗಳಾಯಿತು, ಯಾರೂ ಫೋನ್ ಎತ್ತುತ್ತಿಲ್ಲ - please resolve soon.",electricity,Whitefield,False
+50,kn,Urgent update: ಟ್ರಾನ್ಸ್‌ಫಾರ್ಮರ್ ಶಾರ್ಟ್ ಸರ್ಕ್ಯೂಟ್ ಆಗಿ ಬೆಂಕಿ ಕಾಣಿಸಿಕೊಂಡಿದೆ - please resolve soon.,electricity,Whitefield,True
+51,kanglish,"Urgent update: Current hogi 5 hours aaytu, yaaru phone ettalla - please resolve soon.",electricity,Whitefield,False
+52,kanglish,Urgent update: Transformer spark aagi live wire road mele biddide urgent help beku - please resolve soon.,electricity,Whitefield,True
+53,en,Urgent update: Power outage ongoing for 5 hours without restoration in Whitefield - please resolve soon.,electricity,Whitefield,False
+54,en,Urgent update: High voltage sparking wire hanging on school entrance road - please resolve soon.,electricity,Whitefield,True
+55,hi,Urgent update: Pichle 5 ghante se bijli nahi hai helpline phone nahi utha raha - please resolve soon.,electricity,Whitefield,False
+56,hi,Urgent update: Transformer mein aag lag gayi hai live wire sadak par gir gaya hai - please resolve soon.,electricity,Whitefield,True
+57,kn,Urgent update: ರಸ್ತೆಯಲ್ಲಿ ಆಳವಾದ ಗುಂಡಿ ಬಿದ್ದಿದ್ದು ವಾಹನ ಸವಾರರು ಬೀಳುತ್ತಿದ್ದಾರೆ - please resolve soon.,road,Indiranagar,True
+58,kn,Urgent update: ಫುಟ್‌ಪಾತ್ ಸ್ಲ್ಯಾಬ್ ಒಡೆದು ಪಾದಚಾರಿಗಳಿಗೆ ನಡೆಯಲು ಕಷ್ಟವಾಗಿದೆ - please resolve soon.,road,Indiranagar,False
+59,kanglish,Urgent update: Road alli dodda pothole aagide two wheeler skid aagide - please resolve soon.,road,Indiranagar,True
+60,kanglish,Urgent update: Footpath paving stones kithu hogive walk madoke aagalla - please resolve soon.,road,Indiranagar,False
+61,en,Urgent update: Dangerous deep pothole on main transit corridor risking commuter safety - please resolve soon.,road,Indiranagar,True
+62,en,Urgent update: Broken pavement slab causing obstruction for pedestrians - please resolve soon.,road,Indiranagar,False
+63,hi,Urgent update: Sadak par bohot bada gaddha hai accident ka khatra hai - please resolve soon.,road,Indiranagar,True
+64,hi,Urgent update: Footpath tut gaya hai pedal chalne walon ko pareshaani ho rahi hai - please resolve soon.,road,Indiranagar,False
+65,kn,Urgent update: ಬೀದಿಯಲ್ಲಿ ತ್ಯಾಜ್ಯ ವಿಲೇವಾರಿ ಮಾಡದೆ 3 ದಿನಗಳಾಗಿವೆ ತೀವ್ರ ದುರ್ನಾತ ಬರುತ್ತಿದೆ - please resolve soon.,garbage,Malleshwaram,False
+66,kn,Urgent update: ಕಸದ ರಾಶಿಗೆ ಯಾರೋ ಬೆಂಕಿ ಹಚ್ಚಿದ್ದು ಹೊಗೆಯಿಂದ ಉಸಿರಾಟದ ತೊಂದರೆಯಾಗಿದೆ - please resolve soon.,garbage,Malleshwaram,True
+67,kanglish,Urgent update: Kachra vehicle barilla 3 days inda road full waste biddide - please resolve soon.,garbage,Malleshwaram,False
+68,kanglish,Urgent update: Garbage pile ge fire hacchidaare full toxic smoke banthide - please resolve soon.,garbage,Malleshwaram,True
+69,en,Urgent update: Solid waste not collected for 3 days leading to foul stench - please resolve soon.,garbage,Malleshwaram,False
+70,en,Urgent update: Illegal garbage burning creating thick smoke hazard near clinic - please resolve soon.,garbage,Malleshwaram,True
+71,hi,Urgent update: Teen din se kachra gaadi nahi aayi hai sadak par kachra phel raha hai - please resolve soon.,garbage,Malleshwaram,False
+72,hi,Urgent update: Kachre ke dher mein aag laga di gayi hai dhuaan se saans lena mushkil hai - please resolve soon.,garbage,Malleshwaram,True
+73,kn,Urgent update: ಸೊಳ್ಳೆಗಳ ಕಾಟ ಹೆಚ್ಚಾಗಿದ್ದು ಡೆಂಗ್ಯೂ ಹರಡುವ ಭೀತಿ ಇದೆ ಔಷಧಿ ಸಿಂಪಡಿಸಿ - please resolve soon.,health,Koramangala,True
+74,kn,Urgent update: ಸಾರ್ವಜನಿಕ ಉದ್ಯಾನವನದಲ್ಲಿ ಸ್ವಚ್ಛತೆ ಇಲ್ಲದೆ ಅನೈರ್ಮಲ್ಯ ಉಂಟಾಗಿದೆ - please resolve soon.,health,Jayanagar,False
+75,kanglish,Urgent update: Mosquitoes jasthi aagide fogging madsbeku urgent dengue risk ide - please resolve soon.,health,Koramangala,True
+76,kanglish,Urgent update: Public park alli sanitation illa dirty water nintukondide - please resolve soon.,health,Jayanagar,False
+77,en,Urgent update: Stagnant water breeding mosquitoes creating dengue outbreak hazard - please resolve soon.,health,Koramangala,True
+78,en,Urgent update: Public health sanitation inspection required in municipal market area - please resolve soon.,health,Jayanagar,False
+79,hi,Urgent update: Machhar bohot badh gaye hain dengue ka darr hai fogging karwaiye - please resolve soon.,health,Koramangala,True
+80,hi,Urgent update: Park mein gandagi faili hui hai bimaari failne ka khatra hai - please resolve soon.,health,Jayanagar,False
+81,kn,Notice: ನಮ್ಮ ರಸ್ತೆಯಲ್ಲಿ ಕಾವೇರಿ ನೀರಿನ ಪೈಪ್ ಒಡೆದಿದೆ (Ward report #81).,water,Jayanagar,False
+82,kn,Notice: ಕುಡಿಯುವ ನೀರಿನಲ್ಲಿ ಕೊಳಚೆ ನೀರು ಸೇರುತ್ತಿದೆ ತಕ್ಷಣ ಪರಿಶೀಲಿಸಿ (Ward report #82).,water,Koramangala,True
+83,kanglish,"Notice: Namma street alli water pipe odeede, neeru waste aaguthide (Ward report #83).",water,Jayanagar,False
+84,kanglish,"Notice: Drinking water alli sewage mix aagide, makkalige tondare aagide (Ward report #84).",water,Koramangala,True
+85,en,"Notice: Water pipe burst near 4th Block, road is flooding (Ward report #85).",water,Jayanagar,False
+86,en,Notice: Severe sewage contamination in municipal drinking water line (Ward report #86).,water,Koramangala,True
+87,hi,Notice: Hamare yahan paani ki pipe phat gayi hai aur paani beh raha hai (Ward report #87).,water,Jayanagar,False
+88,hi,Notice: Peene ke paani mein ganda naale ka paani mil raha hai bache bimaar ho rahe hain (Ward report #88).,water,Koramangala,True
+89,kn,"Notice: ಕರೆಂಟ್ ಹೋಗಿ 5 ಗಂಟೆಗಳಾಯಿತು, ಯಾರೂ ಫೋನ್ ಎತ್ತುತ್ತಿಲ್ಲ (Ward report #89).",electricity,Whitefield,False
+90,kn,Notice: ಟ್ರಾನ್ಸ್‌ಫಾರ್ಮರ್ ಶಾರ್ಟ್ ಸರ್ಕ್ಯೂಟ್ ಆಗಿ ಬೆಂಕಿ ಕಾಣಿಸಿಕೊಂಡಿದೆ (Ward report #90).,electricity,Whitefield,True
+91,kanglish,"Notice: Current hogi 5 hours aaytu, yaaru phone ettalla (Ward report #91).",electricity,Whitefield,False
+92,kanglish,Notice: Transformer spark aagi live wire road mele biddide urgent help beku (Ward report #92).,electricity,Whitefield,True
+93,en,Notice: Power outage ongoing for 5 hours without restoration in Whitefield (Ward report #93).,electricity,Whitefield,False
+94,en,Notice: High voltage sparking wire hanging on school entrance road (Ward report #94).,electricity,Whitefield,True
+95,hi,Notice: Pichle 5 ghante se bijli nahi hai helpline phone nahi utha raha (Ward report #95).,electricity,Whitefield,False
+96,hi,Notice: Transformer mein aag lag gayi hai live wire sadak par gir gaya hai (Ward report #96).,electricity,Whitefield,True
+97,kn,Notice: ರಸ್ತೆಯಲ್ಲಿ ಆಳವಾದ ಗುಂಡಿ ಬಿದ್ದಿದ್ದು ವಾಹನ ಸವಾರರು ಬೀಳುತ್ತಿದ್ದಾರೆ (Ward report #97).,road,Indiranagar,True
+98,kn,Notice: ಫುಟ್‌ಪಾತ್ ಸ್ಲ್ಯಾಬ್ ಒಡೆದು ಪಾದಚಾರಿಗಳಿಗೆ ನಡೆಯಲು ಕಷ್ಟವಾಗಿದೆ (Ward report #98).,road,Indiranagar,False
+99,kanglish,Notice: Road alli dodda pothole aagide two wheeler skid aagide (Ward report #99).,road,Indiranagar,True
+100,kanglish,Notice: Footpath paving stones kithu hogive walk madoke aagalla (Ward report #100).,road,Indiranagar,False
+101,en,Notice: Dangerous deep pothole on main transit corridor risking commuter safety (Ward report #101).,road,Indiranagar,True
+102,en,Notice: Broken pavement slab causing obstruction for pedestrians (Ward report #102).,road,Indiranagar,False
+103,hi,Notice: Sadak par bohot bada gaddha hai accident ka khatra hai (Ward report #103).,road,Indiranagar,True
+104,hi,Notice: Footpath tut gaya hai pedal chalne walon ko pareshaani ho rahi hai (Ward report #104).,road,Indiranagar,False
+105,kn,Notice: ಬೀದಿಯಲ್ಲಿ ತ್ಯಾಜ್ಯ ವಿಲೇವಾರಿ ಮಾಡದೆ 3 ದಿನಗಳಾಗಿವೆ ತೀವ್ರ ದುರ್ನಾತ ಬರುತ್ತಿದೆ (Ward report #105).,garbage,Malleshwaram,False
+106,kn,Notice: ಕಸದ ರಾಶಿಗೆ ಯಾರೋ ಬೆಂಕಿ ಹಚ್ಚಿದ್ದು ಹೊಗೆಯಿಂದ ಉಸಿರಾಟದ ತೊಂದರೆಯಾಗಿದೆ (Ward report #106).,garbage,Malleshwaram,True
+107,kanglish,Notice: Kachra vehicle barilla 3 days inda road full waste biddide (Ward report #107).,garbage,Malleshwaram,False
+108,kanglish,Notice: Garbage pile ge fire hacchidaare full toxic smoke banthide (Ward report #108).,garbage,Malleshwaram,True
+109,en,Notice: Solid waste not collected for 3 days leading to foul stench (Ward report #109).,garbage,Malleshwaram,False
+110,en,Notice: Illegal garbage burning creating thick smoke hazard near clinic (Ward report #110).,garbage,Malleshwaram,True
+111,hi,Notice: Teen din se kachra gaadi nahi aayi hai sadak par kachra phel raha hai (Ward report #111).,garbage,Malleshwaram,False
+112,hi,Notice: Kachre ke dher mein aag laga di gayi hai dhuaan se saans lena mushkil hai (Ward report #112).,garbage,Malleshwaram,True
+113,kn,Notice: ಸೊಳ್ಳೆಗಳ ಕಾಟ ಹೆಚ್ಚಾಗಿದ್ದು ಡೆಂಗ್ಯೂ ಹರಡುವ ಭೀತಿ ಇದೆ ಔಷಧಿ ಸಿಂಪಡಿಸಿ (Ward report #113).,health,Koramangala,True
+114,kn,Notice: ಸಾರ್ವಜನಿಕ ಉದ್ಯಾನವನದಲ್ಲಿ ಸ್ವಚ್ಛತೆ ಇಲ್ಲದೆ ಅನೈರ್ಮಲ್ಯ ಉಂಟಾಗಿದೆ (Ward report #114).,health,Jayanagar,False
+115,kanglish,Notice: Mosquitoes jasthi aagide fogging madsbeku urgent dengue risk ide (Ward report #115).,health,Koramangala,True
+116,kanglish,Notice: Public park alli sanitation illa dirty water nintukondide (Ward report #116).,health,Jayanagar,False
+117,en,Notice: Stagnant water breeding mosquitoes creating dengue outbreak hazard (Ward report #117).,health,Koramangala,True
+118,en,Notice: Public health sanitation inspection required in municipal market area (Ward report #118).,health,Jayanagar,False
+119,hi,Notice: Machhar bohot badh gaye hain dengue ka darr hai fogging karwaiye (Ward report #119).,health,Koramangala,True
+120,hi,Notice: Park mein gandagi faili hui hai bimaari failne ka khatra hai (Ward report #120).,health,Jayanagar,False
